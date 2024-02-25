@@ -1,0 +1,45 @@
+#slike{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+}
+.slika{
+    background-color: rgba(0, 0, 0, 0.722);
+    border: 1px solid rgba(0, 0, 0, 0.722);
+    border-radius: 35px;
+    height: 380px;
+    margin: 10px;
+}
+.slika h2{
+    padding-left: 20px;
+}
+.slika img{
+    width: 200px;
+    height: 280px;
+    float: left;
+    margin-left: 20px;
+}
+.slika_tekst{
+    position: relative;
+    left: 50px;
+}
+.slika_tekst p{
+    overflow: scroll;
+    width: 200px;
+    height: 280px;
+    color: gold;
+}
+.slika_tekst p a{
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+}
+.slika_tekst p a:hover{
+    color: black;
+    background-color: crimson;
+}
+.slika_tekst p::-webkit-scrollbar
+{
+    display: none;
+}

@@ -1,0 +1,105 @@
+#knjige{
+    display: grid;
+    height: 700px;
+    overflow: scroll;
+    margin-left: 20px;
+    grid-template-columns: auto auto auto;
+    float:left;
+    background-color: rgba(0, 0, 0, 0.722);
+    border: 1px solid rgba(0, 0, 0, 0.722);
+    border-radius: 35px;
+}
+#knjige::-webkit-scrollbar{
+    display: none;
+}
+.knjiga h3{
+    font-size: 16px;
+}
+.knjiga{
+    width: 200px;
+    margin-left: 20px;
+}
+.knjiga input{
+    margin-left: 50px
+}
+.knjiga p{
+    color: gold;
+}
+.knjiga span{
+    color: crimson;
+}
+.knjiga img{
+    width: 120px;
+    height: 200px;
+    cursor: pointer;
+}
+#kupovina{
+    margin-left: 10px;
+    float:left;
+    width: 400px;
+    height: 700px;
+    background-color: rgba(0, 0, 0, 0.722);
+    border: 1px solid rgba(0, 0, 0, 0.722);
+    border-radius: 35px;
+}
+#main2{
+    height: 700px;
+    margin-top: 50px;
+    
+}
+#forma span{
+    color: crimson;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+    padding-left: 15px;
+}
+#korpa{
+    color: gold;
+    padding: 0px 35px;
+}
+#inputs{
+    padding: 0px 35px;
+}
+#selectButtons{
+    margin-top: 20px;
+    margin-left: 42px;
+}
+#kupi{
+    margin: 10px 100px;
+}
+#forma{
+    padding:20px 50px;
+}
+#forma button{
+    width: 100px;
+    height: 35px;
+    background-color: black;
+    color: crimson;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 1px solid red;
+    outline: 1px solid crimson;
+}
+#forma input{
+    background-color: black;
+    border: 1px solid gray;
+    height: 20px;
+    width: 220px;
+    color: gold;
+}
+#forma input:hover{
+    border: 1px solid red;
+    outline: 2px solid crimson;
+}
+#forma input:focus{
+    border: 1px solid red;
+    outline: 2px solid crimson;
+}
+#forma button:hover{
+    cursor: pointer;
+    color: black;
+    background-color: crimson;
+    border: 1px solid black;
+}

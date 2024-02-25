@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WitcherPedia</title>
+    <link rel="stylesheet" href="homecss.css">
+    <link rel="stylesheet" href="bookcss.css">
+    <script src="bookFunctions.js"></script>
+</head>
+<body onload="loadXML()">
+    <div id="container">
+        <div id="header">
+
+        </div>
+
+        <div id="main">
+            <div id="meni">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="places.html">Countries</a></li>
+                    <li><a style="color: black; background-color: crimson;" href="books.html">Books</a></li>
+                    <li><a href="characters.html">Characters</a></li>
+                    <li><a href="beastiary.html">Beastiary</a></li>
+                </ul>
+            </div>
+            <div id="title"><h2>Books</h2></div>
+            <div id="text">The Witcher is a series of six fantasy novels and 15 short stories written by Polish author Andrzej Sapkowski. The series revolves around the eponymous "witcher", Geralt of Rivia. In Sapkowski's works, "witchers" are beast hunters who develop supernatural abilities at a young age to battle wild beasts and monsters.</div>
+            
+            <div id="main2">
+                <div id="knjige">
+    
+                </div>
+                <div id="kupovina">
+                    <div id="forma">
+                        <span>GET ALL BOOKS FOR 150$</span>
+                        <div id="inputs">
+                            <br>
+                            Name:<br><input id="name" type="text" placeholder="Name"><br>
+                            Surname:<br><input id="surname" type="text" placeholder="Surname"><br>
+                            Address:<br><input id="adress" type="text" placeholder="Adress"><br>
+                            Email:<br><input id="mail" type="text" placeholder="Email"><br>
+                            Contact:<br><input id="number" type="text" placeholder="Contact"><br>
+                        </div>
+                        <div id="selectButtons">
+                            <button onclick="selectAll()">Select all</button>
+                            <button onclick="removeAll()">Remove all</button>
+                        </div>
+                        <button id="kupi" onclick="checkForm()">Purchase</button>
+                        </div>
+                    <div id="korpa">
+
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div id="footer">
+                <span>Designed by Stefan Vucicevic</span>
+            </div>
+        </div>
+        <br><br>
+    </div>
+</body>
+</html>

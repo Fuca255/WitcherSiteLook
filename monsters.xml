@@ -1,0 +1,352 @@
+<?xml version="1.0"?>
+<beastiary>
+    <monster>
+        <name>Alghoul</name>
+        <occurrences>
+            <occurrence>Crypts</occurrence>
+            <occurrence>Necropolises</occurrence>
+        </occurrences>
+        <immunity>Poisons</immunity>
+        <class>Necrophage</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+        </weaknesses>
+        <lore>Alghouls are a sub-species of necrophage, and the biological cousins of ghouls, distinguished by their darker visage, larger size and strength, colourings, and intelligence. After the Northern Wars, their numbers spread rapidly through the Northern Kingdoms, due to lack of control and widespread famine which attracted the corpse-eaters.</lore>
+    </monster>
+    <monster>
+        <name>Alp</name>
+        <occurrences>
+            <occurrence>Toussaint</occurrence>
+        </occurrences>
+        <immunity>Fear</immunity>
+        <class>Vampire</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+            <weakness>Sun</weakness>
+        </weaknesses>
+        <lore>People believe that this vampire is able to turn into a black dog or a venomous toad. They mistake alps for succubi, believing them to be lecherous and inclined to seduce handsome young men.</lore>
+    </monster>
+    <monster>
+        <name>Armored hound</name>
+        <occurrences>
+            <occurrence>Every region</occurrence>
+        </occurrences>
+        <immunity>Fear</immunity>
+        <class>Mutant</class>
+        <weaknesses>
+            <weakness>Steel</weakness>
+            <weakness>Fire</weakness>
+        </weaknesses>
+        <lore>Mutated dogs, which was the resault of the henious experiments of the humans</lore>
+    </monster>
+    <monster>
+        <name>Barghest</name>
+        <occurrences>
+            <occurrence>Vizima</occurrence>
+        </occurrences>
+        <immunity>Poisons,Fear</immunity>
+        <class>Specter</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+        </weaknesses>
+        <lore>People say that barghests are specters which materialize as ghastly dogs and persecute the living.</lore>
+    </monster>
+    <monster>
+        <name>Basilisk</name>
+        <occurrences>
+            <occurrence>Caves</occurrence>
+            <occurrence>Abandoned canals</occurrence>
+        </occurrences>
+        <immunity>Poisons</immunity>
+        <class>Ornithosaur</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+        </weaknesses>
+        <lore>A beast that is filled with such hatred towards all living things that even its breath is venomous and its glance turns the unwary to stone</lore>
+    </monster>
+    <monster>
+        <name>Bruxa</name>
+        <occurrences>
+            <occurrence>Abandoned villages</occurrence>
+            <occurrence>Ruins</occurrence>
+        </occurrences>
+        <immunity>Sun</immunity>
+        <class>Vampire</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+        </weaknesses>
+        <lore>Very powerful type of vampire that takes on the appearance of a dark-haired, young human, most often female, but whose natural form is that of a large, black bat with sharp fangs and claws. It is one of few vampire species not affected by sun.</lore>
+    </monster>
+    <monster>
+        <name>Cemetaur</name>
+        <occurrences>
+            <occurrence>Cemeteries</occurrence>
+        </occurrences>
+        <immunity>Poisons</immunity>
+        <class>Necrophage</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+        </weaknesses>
+        <lore>Much has been written about ghouls and graveirs, since they are encountered by common people in times of war or in cemeteries. Cemetaurs are female graveirs, rare and stronger than it's graveir husbands, but when they appear in a necropolis, they take it over. All ghouls respect them and must bow to them."</lore>
+    </monster>
+    <monster>
+        <name>Cockatrice</name>
+        <occurrences>
+            <occurrence>Caves</occurrence>
+        </occurrences>
+        <immunity>Poisons</immunity>
+        <class>Ornithosaur</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+            <weakness>Fire</weakness>
+        </weaknesses>
+        <lore>Its central tail feathers are also valuable as they're more durable and sharpen better than regular goose feathers for quills.</lore>
+    </monster>
+    <monster>
+        <name>Devourer</name>
+        <occurrences>
+            <occurrence>Near human settlements</occurrence>
+            <occurrence>Caves</occurrence>
+            <occurrence>Ruins</occurrence>
+        </occurrences>
+        <immunity>Poisons</immunity>
+        <class>Necrophage</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+        </weaknesses>
+        <lore>Devourers are often called night witches, because they resemble old, ugly women and are famous for their witch-like viciousness. These creatures gorge themselves on human flesh; although they willingly eat carcasses, above all they crave flesh that is fresh and warm.</lore>
+    </monster>
+    <monster>
+        <name>Drowner</name>
+        <occurrences>
+            <occurrence>Rivers</occurrence>
+            <occurrence>Lakes</occurrence>
+            <occurrence>Swamps</occurrence>
+        </occurrences>
+        <immunity>Blinding,Poisons,Fear,Bleeding</immunity>
+        <class>Necrophage</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+            <weakness>Sun</weakness>
+        </weaknesses>
+        <lore>Irredeemable criminals who end their lives in the waters of Lake Vizima become drowners.</lore>
+    </monster>
+    <monster>
+        <name>Fleder</name>
+        <occurrences>
+            <occurrence>Wilderness</occurrence>
+            <occurrence>Cemeteries</occurrence>
+        </occurrences>
+        <immunity>Fear</immunity>
+        <class>Vampire</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+            <weakness>Sun</weakness>
+        </weaknesses>
+        <lore>Dead heathens who turned into vampires and rose from their graves.</lore>
+    </monster>
+    <monster>
+        <name>Frightener</name>
+        <occurrences>
+            <occurrence>Could be found everywhere</occurrence>
+        </occurrences>
+        <immunity>Almost everything</immunity>
+        <class>Magic Creature</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+            <weakness>Steel</weakness>
+            <weakness>Loud sounds</weakness>
+        </weaknesses>
+        <lore>It was created as a result of magic experimetns.</lore>
+    </monster>
+        <monster>
+        <name>Ghoul</name>
+        <occurrences>
+            <occurrence>Abandoned crypts</occurrence>
+            <occurrence>Cemeteriess</occurrence>
+        </occurrences>
+        <immunity>Poisons</immunity>
+        <class>Necrophage</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+        </weaknesses>
+        <lore>Ghouls are said to have been humans who were once forced into cannibalism and, after many years spent in dark crypts, underwent a horrifying transformation.</lore>
+    </monster>
+    <monster>
+        <name>Golem</name>
+        <occurrences>
+            <occurrence>Unknown</occurrence>
+        </occurrences>
+        <immunity>Everything</immunity>
+        <class>Magic Creature</class>
+        <weaknesses>
+            <weakness>Electric shocks</weakness>
+        </weaknesses>
+        <lore>Creatures made of stone or wood, imbued by magic.</lore>
+    </monster>
+    <monster>
+        <name>Graveir</name>
+        <occurrences>
+            <occurrence>Cemeteries</occurrence>
+        </occurrences>
+        <immunity>Poisons</immunity>
+        <class>Necrophage</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+        </weaknesses>
+        <lore>Graveirs are a species of necrophage, and the cousins of ghouls. Unlike their smaller cousins, these creatures can be distinguished by the three bony combs on their skull, blunt claws, strong teeth and a long tongue for feeding on marrow. The smallest wound from a graveir will infect you with corpse-venom, which can cause death if not treated.</lore>
+    </monster>
+    <monster>
+        <name>Hellhound</name>
+        <occurrences>
+            <occurrence>Wherever dishonorable people live</occurrence>
+        </occurrences>
+        <immunity>Almost everything</immunity>
+        <class>Specter</class>
+        <weaknesses>
+            <weakness>Steel</weakness>
+            <weakness>Silver</weakness>
+        </weaknesses>
+        <lore></lore>
+    </monster>
+    <monster>
+        <name>Kikimore</name>
+        <occurrences>
+            <occurrence>Undergroud caves</occurrence>
+            <occurrence>Swamps</occurrence>
+        </occurrences>
+        <immunity>Everything</immunity>
+        <class>Insectoid</class>
+        <weaknesses>
+            <weakness>Slow Movement</weakness>
+        </weaknesses>
+        <lore>Kikimores behave like ants. They are divided into industrious workers and protective warriors.</lore>
+    </monster>
+    <monster>
+        <name>Koshchey</name>
+        <occurrences>
+            <occurrence>Unknown</occurrence>
+        </occurrences>
+        <immunity>Almost everything</immunity>
+        <class>Magic Creature</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+            <weakness>Blinding</weakness>
+        </weaknesses>
+        <lore>Danegerous creatures that can be summoned using magic.</lore>
+    </monster>
+    <monster>
+        <name>Nightwraith</name>
+        <occurrences>
+            <occurrence>Fields</occurrence>
+            <occurrence>Meadows</occurrence>
+        </occurrences>
+        <immunity>Poisons,Blinding,Pain</immunity>
+        <class>Specter</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+        </weaknesses>
+        <lore>Nightwraiths are born of moonlight, wind and the earth cooling after the heat of the day.</lore>
+    </monster>
+    <monster>
+        <name>Noonwraith</name>
+        <occurrences>
+            <occurrence>Cultivated Fields</occurrence>
+            <occurrence>Meadows</occurrence>
+        </occurrences>
+        <immunity>Poisons,Blinding,Pain</immunity>
+        <class>Specter</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+        </weaknesses>
+        <lore>Noonwraiths are born at high noon out of heat, sadness and the sweat of ploughmen. In the hot air above the fields, they gather to dance madly, creating air vortexes, but the specters dislike being watched. Those who peep are forced to dance with them.</lore>
+    </monster>
+    <monster>
+        <name>Striga</name>
+        <occurrences>
+            <occurrence>Crypts</occurrence>
+        </occurrences>
+        <immunity>Steel</immunity>
+        <class>Mutant</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+            <weakness>Sun</weakness>
+        </weaknesses>
+        <lore>A human woman transformed into a monster by a curse. She is filled with hatred towards all living beings, devouring them without a second thought. She only comes out on a full moon to hunt, fighting with incredible speed and strength.</lore>
+    </monster>
+    <monster>
+        <name>Witcher</name>
+        <occurrences>
+            <occurrence>Kaern Morhen</occurrence>
+        </occurrences>
+        <immunity>Illness,Poisons</immunity>
+        <class>Mutant</class>
+        <weaknesses>
+            <weakness>Steel</weakness>
+        </weaknesses>
+        <lore>The witchmen, or witchers as the Nordlings call them, are a secret, elite caste of soldier-priests, likely an offshoot of the druids. Gifted, in the popular imagination, of magical powers and superhuman abilities, they were driven to take part in the struggle against evil spirits, monsters and all the dark forces.</lore>
+    </monster>
+    <monster>
+        <name>Werewolf</name>
+        <occurrences>
+            <occurrence>Human settlements</occurrence>
+            <occurrence>Human villages</occurrence>
+        </occurrences>
+        <immunity>Steel,Poisons</immunity>
+        <class>Therianthrope</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+        </weaknesses>
+        <lore>Werewolves are therianthropes who transform into wolves or half-wolves.[1] As other such creatures, they are hardly hurt by steel but very vulnerable to silver.</lore>
+    </monster>
+    <monster>
+        <name>Werebear</name>
+        <occurrences>
+            <occurrence>Human settlements</occurrence>
+            <occurrence>Human villages</occurrence>
+        </occurrences>
+        <immunity>Steel,Poisons</immunity>
+        <class>Therianthrope</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+        </weaknesses>
+        <lore>Werebears, on Skellige known as berserkers,[2] are therianthropes who transform into bears or half-bears. As other such creatures, they are hardly hurt by steel but are still very vulnerable to silver.</lore>
+    </monster>
+    <monster>
+        <name>Wild Hunt</name>
+        <occurrences>
+            <occurrence>Unknown</occurrence>
+        </occurrences>
+        <immunity>Almost everything</immunity>
+        <class>Specter</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+        </weaknesses>
+        <lore>The Wild Hunt, or Wraiths of Mörhogg as they are called in Skellige, was widely believed to be a group of specters galloping in the sky. They were described by common folk as a cavalcade of wraiths on undead horses galloping across the sky and serving as an omen of war. </lore>
+    </monster>
+    <monster>
+        <name>Wraith</name>
+        <occurrences>
+            <occurrence>Crypts</occurrence>
+            <occurrence>Cemeteries</occurrence>
+        </occurrences>
+        <immunity>Poisons,Blinding,Pain</immunity>
+        <class>Specter</class>
+        <weaknesses>
+            <weakness>Silver</weakness>
+        </weaknesses>
+        <lore>Wraiths haunt the places where they died or were buried. They are specters which do not belong in this world.</lore>
+    </monster>
+    <monster>
+        <name>Zeugul</name>
+        <occurrences>
+            <occurrence>Sewers</occurrence>
+        </occurrences>
+        <immunity>Everything</immunity>
+        <class>Unknown</class>
+        <weaknesses>
+            <weakness>None</weakness>
+        </weaknesses>
+        <lore>The beast feeds on the waste and filth produced by the city, so it need not hunt or fight to survive. It simply grows and gradually becomes a danger to people. This shows how detrimental continued degradation of the natural environment can be in the long run.</lore>
+    </monster>
+</beastiary>

@@ -1,0 +1,77 @@
+#galerija_kingdoms{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 40px;
+    margin:  0px 10px;
+}
+.kingdom img{
+    float: left;
+    width: 200px;
+    height:250px ;
+}
+.kingdom p{
+    overflow: scroll;
+    height: 250px;
+    padding-left: 20px;
+    color: gold;
+}
+.kingdom p::-webkit-scrollbar{
+    display: none;
+}
+.kingdom{
+    height: 350px;
+    background-color: rgba(0, 0, 0, 0.722);
+    border: 1px solid rgba(0, 0, 0, 0.722);
+    border-radius: 35px;
+    padding: 0px 20px;
+    opacity: 0.9;
+}
+#buttonMore{
+    height: 100px;
+    margin-right:280px ;
+    position: relative;
+    left: 480px;
+    top: 40px;
+}
+#buttonMore button{
+    width: 150px;
+    height: 50px;
+    background-color: black;
+    color: crimson;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 1px solid red;
+    outline: 1px solid crimson;
+
+}
+#buttonMore button:hover{
+    cursor: pointer;
+    color: black;
+    background-color: crimson;
+    border: 1px solid black;
+}
+#naslov{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.722);
+    border: 1px solid rgba(0, 0, 0, 0.722);
+    border-radius: 35px;
+    margin: 0px 300px;
+    height: 50px;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+#world{
+    border: 1px solid rgba(0, 0, 0, 0.722);
+    background-color: rgba(0, 0, 0, 0.722);
+    border-radius: 20px;
+    justify-content: center;
+    display: flex;
+    width: 700px;
+    margin-left: 150px;
+    padding: 50px;
+}
+#world img{
+    width: 750px;
+    opacity: 0.8;
+}

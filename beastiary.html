@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WitcherPedia</title>
+    <link rel="stylesheet" href="beast.css">
+    <link rel="stylesheet" href="homecss.css">
+    <script src="beastFunctions.js"></script>
+</head>
+<body onload="loadXML()">
+    <div id="container">
+        <div id="header"></div>
+        <div id="main">
+            <div id="meni">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="places.html">Countries</a></li>
+                    <li><a href="books.html">Books</a></li>
+                    <li><a href="characters.html">Characters</a></li>
+                    <li><a style="color: black; background-color: crimson;" href="beastiary.html">Beastiary</a></li>
+                </ul>
+            </div>
+            <div id="title"><h2>Monsters</h2></div>
+            <div id="text">Monsters are distinguished from other creatures using two primary criteria: dissimilarity to humans and lack of sentience or obvious intelligence. Because of this, some sentient races are considered monsters because they are not humanoid and some decidedly non-humanoid creatures are considered sentient races.
+
+                Geralt has his own set of guidelines for judging what constitutes a monster. One of his tests is their reaction to silver. Most magical beasts cannot bear it. Other metrics he uses include intent and circumstance. Overall, the witcher is far more fair in his classification of creatures into monsters and non-monsters.
+                Here we have some of the most dangerous and most important monsters, as well as their data, from the world of the Witcher.</div>
+            <div id="filters">
+                <fieldset>
+                    <legend>Name</legend>
+                    <input type="text" id="search" placeholder="Search..." onkeyup="showTable()">
+                </fieldset>
+                <fieldset>
+                    <legend>Class</legend>
+                    <select id="klasa" onchange="showTable()">
+
+                    </select>
+                </fieldset>
+                <fieldset>
+                    <legend>Weaknesses</legend>
+                    <select id="slabost" onchange="showTable()">
+
+                    </select>
+                </fieldset>
+            </div>
+            <p id="uputstvo">Click on a row to see more details</p>
+            <div id="tabela">
+                <div id="content">
+                    <!--Generated-->
+                </div>
+                <div id="details">
+                    <!--Generated-->
+                </div>
+            </div>
+            <div id="footer">
+                <span>Designed by Stefan Vucicevic</span>
+            </div>
+        </div>
+        <br><br>
+    </div>
+</body>
+</html>

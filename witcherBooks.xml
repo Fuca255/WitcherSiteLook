@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<books>
+    <book>
+        <title>The Witcher</title>
+        <price>20.99</price>
+        <slika>The_Witcher.png</slika>
+    </book>
+    <book>
+        <title>The Last Wish</title>
+        <price>22.99</price>
+        <slika>The_Last_Wish.png</slika>
+    </book>
+    <book>
+        <title>Sword of Destiny</title>
+        <price>22.99</price>
+        <slika>Sword_of_Destiny.png</slika>
+    </book>
+    <book>
+        <title>Blood of Elves</title>
+        <price>29.99</price>
+        <slika>Blood_Of_Elves.png</slika>
+    </book>
+    <book>
+        <title>Time of Contempt</title>
+        <price>29.99</price>
+        <slika>Time_of_Contempt.png</slika>
+    </book>
+    <book>
+        <title>Baptism of Fire</title>
+        <price>29.99</price>
+        <slika>Baptism_of_fire.png</slika>
+    </book>
+    <book>
+        <title>The Tower of Swallow</title>
+        <price>29.99</price>
+        <slika>The_Tower_of_Swallow.png</slika>
+    </book>
+    <book>
+        <title>The Lady of The Lake</title>
+        <price>29.99</price>
+        <slika>The_Lady_of_the_Lake.png</slika>
+    </book>
+    <book>
+        <title>Season of Storms</title>
+        <price>35.99</price>
+        <slika>Season_of_Storms.png</slika>
+    </book>
+</books>
